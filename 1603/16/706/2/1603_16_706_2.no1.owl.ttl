@@ -26,7 +26,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Boorama"@eng-Latn ,
         "Borama"@eng-Latn ;
-    wdata:q7200235 "SO1101" ;
+    wdata:Q7200235 "SO1101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -124,7 +124,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@eng-Latn ,
         "Baki"@eng-Latn ;
-    wdata:q7200235 "SO1102" ;
+    wdata:Q7200235 "SO1102" ;
 .
 
 <urn:mdciii:1603:16:706:2:1103>
@@ -138,7 +138,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@eng-Latn ,
         "Lughaye"@eng-Latn ;
-    wdata:q7200235 "SO1103" ;
+    wdata:Q7200235 "SO1103" ;
 .
 
 <urn:mdciii:1603:16:706:2:1104>
@@ -152,7 +152,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Saylac"@eng-Latn ,
         "Zeylac"@eng-Latn ;
-    wdata:q7200235 "SO1104" ;
+    wdata:Q7200235 "SO1104" ;
 .
 
 <urn:mdciii:1603:16:706:2:1201>
@@ -166,7 +166,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hargeisa"@eng-Latn ,
         "Hargeysa"@eng-Latn ;
-    wdata:q7200235 "SO1201" ;
+    wdata:Q7200235 "SO1201" ;
 .
 
 <urn:mdciii:1603:16:706:2:1202>
@@ -180,7 +180,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@eng-Latn ,
         "Berbera"@eng-Latn ;
-    wdata:q7200235 "SO1202" ;
+    wdata:Q7200235 "SO1202" ;
 .
 
 <urn:mdciii:1603:16:706:2:1203>
@@ -194,7 +194,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gabiley"@eng-Latn ,
         "Gebiley"@eng-Latn ;
-    wdata:q7200235 "SO1203" ;
+    wdata:Q7200235 "SO1203" ;
 .
 
 <urn:mdciii:1603:16:706:2:1301>
@@ -208,7 +208,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Burao"@eng-Latn ,
         "Burco"@eng-Latn ;
-    wdata:q7200235 "SO1301" ;
+    wdata:Q7200235 "SO1301" ;
 .
 
 <urn:mdciii:1603:16:706:2:1302>
@@ -222,7 +222,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Buhodle"@eng-Latn ,
         "Buuhoodle"@eng-Latn ;
-    wdata:q7200235 "SO1302" ;
+    wdata:Q7200235 "SO1302" ;
 .
 
 <urn:mdciii:1603:16:706:2:1303>
@@ -236,7 +236,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Oodweyne"@eng-Latn ,
         "Owdweyne"@eng-Latn ;
-    wdata:q7200235 "SO1303" ;
+    wdata:Q7200235 "SO1303" ;
 .
 
 <urn:mdciii:1603:16:706:2:1304>
@@ -250,7 +250,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sheekh"@eng-Latn ,
         "Sheikh"@eng-Latn ;
-    wdata:q7200235 "SO1304" ;
+    wdata:Q7200235 "SO1304" ;
 .
 
 <urn:mdciii:1603:16:706:2:1401>
@@ -264,7 +264,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Laas Caanood"@eng-Latn ,
         "Las Caanood, Lascaanod, Lasanod, Las Anod"@eng-Latn ;
-    wdata:q7200235 "SO1401" ;
+    wdata:Q7200235 "SO1401" ;
 .
 
 <urn:mdciii:1603:16:706:2:1402>
@@ -278,7 +278,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ainabo"@eng-Latn ,
         "Caynabo"@eng-Latn ;
-    wdata:q7200235 "SO1402" ;
+    wdata:Q7200235 "SO1402" ;
 .
 
 <urn:mdciii:1603:16:706:2:1403>
@@ -292,7 +292,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Taleex"@eng-Latn ,
         "Taleh"@eng-Latn ;
-    wdata:q7200235 "SO1403" ;
+    wdata:Q7200235 "SO1403" ;
 .
 
 <urn:mdciii:1603:16:706:2:1404>
@@ -306,7 +306,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hudun"@eng-Latn ,
         "Xudun"@eng-Latn ;
-    wdata:q7200235 "SO1404" ;
+    wdata:Q7200235 "SO1404" ;
 .
 
 <urn:mdciii:1603:16:706:2:1501>
@@ -320,7 +320,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ceerigaabo"@eng-Latn ,
         "Ceerigaavo, Erigavo, Erigabo"@eng-Latn ;
-    wdata:q7200235 "SO1501" ;
+    wdata:Q7200235 "SO1501" ;
 .
 
 <urn:mdciii:1603:16:706:2:1502>
@@ -334,7 +334,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ceel Afweyn"@eng-Latn ,
         "Ceel Afweyne, Ceel-afwein, El Afwein"@eng-Latn ;
-    wdata:q7200235 "SO1502" ;
+    wdata:Q7200235 "SO1502" ;
 .
 
 <urn:mdciii:1603:16:706:2:1503>
@@ -348,7 +348,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Laasqoray"@eng-Latn ,
         "Lasqoray"@eng-Latn ;
-    wdata:q7200235 "SO1503" ;
+    wdata:Q7200235 "SO1503" ;
 .
 
 <urn:mdciii:1603:16:706:2:1601>
@@ -362,7 +362,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bossaaso, Bossaso , Bosaaso"@eng-Latn ,
         "Bossaso"@eng-Latn ;
-    wdata:q7200235 "SO1601" ;
+    wdata:Q7200235 "SO1601" ;
 .
 
 <urn:mdciii:1603:16:706:2:1602>
@@ -376,7 +376,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bandar Beyla, Bander-beyla, Benderbela"@eng-Latn ,
         "Bandarbeyla"@eng-Latn ;
-    wdata:q7200235 "SO1602" ;
+    wdata:Q7200235 "SO1602" ;
 .
 
 <urn:mdciii:1603:16:706:2:1603>
@@ -390,7 +390,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Calawla, Alula"@eng-Latn ,
         "Caluula"@eng-Latn ;
-    wdata:q7200235 "SO1603" ;
+    wdata:Q7200235 "SO1603" ;
 .
 
 <urn:mdciii:1603:16:706:2:1604>
@@ -404,7 +404,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@eng-Latn ,
         "Iskushuban"@eng-Latn ;
-    wdata:q7200235 "SO1604" ;
+    wdata:Q7200235 "SO1604" ;
 .
 
 <urn:mdciii:1603:16:706:2:1605>
@@ -418,7 +418,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kandala"@eng-Latn ,
         "Qandala"@eng-Latn ;
-    wdata:q7200235 "SO1605" ;
+    wdata:Q7200235 "SO1605" ;
 .
 
 <urn:mdciii:1603:16:706:2:1606>
@@ -432,7 +432,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gardo"@eng-Latn ,
         "Qardho"@eng-Latn ;
-    wdata:q7200235 "SO1606" ;
+    wdata:Q7200235 "SO1606" ;
 .
 
 <urn:mdciii:1603:16:706:2:1701>
@@ -446,7 +446,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Garoowe"@eng-Latn ,
         "Garowe"@eng-Latn ;
-    wdata:q7200235 "SO1701" ;
+    wdata:Q7200235 "SO1701" ;
 .
 
 <urn:mdciii:1603:16:706:2:1702>
@@ -460,7 +460,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@eng-Latn ,
         "Burtinle"@eng-Latn ;
-    wdata:q7200235 "SO1702" ;
+    wdata:Q7200235 "SO1702" ;
 .
 
 <urn:mdciii:1603:16:706:2:1703>
@@ -474,7 +474,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@eng-Latn ,
         "Eyl"@eng-Latn ;
-    wdata:q7200235 "SO1703" ;
+    wdata:Q7200235 "SO1703" ;
 .
 
 <urn:mdciii:1603:16:706:2:1801>
@@ -488,7 +488,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gaalkacyo"@eng-Latn ,
         "Galkacyo, Gaalkacayo, Galkayo"@eng-Latn ;
-    wdata:q7200235 "SO1801" ;
+    wdata:Q7200235 "SO1801" ;
 .
 
 <urn:mdciii:1603:16:706:2:1802>
@@ -502,7 +502,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Galdogob"@eng-Latn ,
         "Goldogob"@eng-Latn ;
-    wdata:q7200235 "SO1802" ;
+    wdata:Q7200235 "SO1802" ;
 .
 
 <urn:mdciii:1603:16:706:2:1803>
@@ -516,7 +516,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@eng-Latn ,
         "Hobyo"@eng-Latn ;
-    wdata:q7200235 "SO1803" ;
+    wdata:Q7200235 "SO1803" ;
 .
 
 <urn:mdciii:1603:16:706:2:1804>
@@ -530,7 +530,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@eng-Latn ,
         "Jariiban"@eng-Latn ;
-    wdata:q7200235 "SO1804" ;
+    wdata:Q7200235 "SO1804" ;
 .
 
 <urn:mdciii:1603:16:706:2:1805>
@@ -544,7 +544,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hararheere, Harardhere"@eng-Latn ,
         "Xarardheere"@eng-Latn ;
-    wdata:q7200235 "SO1805" ;
+    wdata:Q7200235 "SO1805" ;
 .
 
 <urn:mdciii:1603:16:706:2:1901>
@@ -558,7 +558,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dhusa Marreeb, Dhuusamareeb, Dhusa Mareeb"@eng-Latn ,
         "Dhuusamarreeb"@eng-Latn ;
-    wdata:q7200235 "SO1901" ;
+    wdata:Q7200235 "SO1901" ;
 .
 
 <urn:mdciii:1603:16:706:2:1902>
@@ -572,7 +572,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Caabudwaaq, Abudwaq"@eng-Latn ,
         "Cabudwaaq"@eng-Latn ;
-    wdata:q7200235 "SO1902" ;
+    wdata:Q7200235 "SO1902" ;
 .
 
 <urn:mdciii:1603:16:706:2:1903>
@@ -586,7 +586,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cadaado"@eng-Latn ,
         "Cadado, Adado"@eng-Latn ;
-    wdata:q7200235 "SO1903" ;
+    wdata:Q7200235 "SO1903" ;
 .
 
 <urn:mdciii:1603:16:706:2:1904>
@@ -600,7 +600,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ceel Buur"@eng-Latn ,
         "El Bur, Ceel Bur"@eng-Latn ;
-    wdata:q7200235 "SO1904" ;
+    wdata:Q7200235 "SO1904" ;
 .
 
 <urn:mdciii:1603:16:706:2:1905>
@@ -614,7 +614,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ceel Dheer"@eng-Latn ,
         "El Dere, El Der"@eng-Latn ;
-    wdata:q7200235 "SO1905" ;
+    wdata:Q7200235 "SO1905" ;
 .
 
 <urn:mdciii:1603:16:706:2:2001>
@@ -628,7 +628,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Beled Weyne"@eng-Latn ,
         "Belet Weyne"@eng-Latn ;
-    wdata:q7200235 "SO2001" ;
+    wdata:Q7200235 "SO2001" ;
 .
 
 <urn:mdciii:1603:16:706:2:2002>
@@ -642,7 +642,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bulo Barde, Buulo Burdo, Bula-brif, Bulo Burti"@eng-Latn ,
         "Bulo Burto"@eng-Latn ;
-    wdata:q7200235 "SO2002" ;
+    wdata:Q7200235 "SO2002" ;
 .
 
 <urn:mdciii:1603:16:706:2:2003>
@@ -656,7 +656,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@eng-Latn ,
         "Jalalaqsi"@eng-Latn ;
-    wdata:q7200235 "SO2003" ;
+    wdata:Q7200235 "SO2003" ;
 .
 
 <urn:mdciii:1603:16:706:2:2101>
@@ -670,7 +670,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jawhar"@eng-Latn ,
         "Jowhar"@eng-Latn ;
-    wdata:q7200235 "SO2101" ;
+    wdata:Q7200235 "SO2101" ;
 .
 
 <urn:mdciii:1603:16:706:2:2102>
@@ -684,7 +684,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Adan Yabaal"@eng-Latn ,
         "Aden Yabal, Aadan"@eng-Latn ;
-    wdata:q7200235 "SO2102" ;
+    wdata:Q7200235 "SO2102" ;
 .
 
 <urn:mdciii:1603:16:706:2:2103>
@@ -698,7 +698,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Balad"@eng-Latn ,
         "Balcad"@eng-Latn ;
-    wdata:q7200235 "SO2103" ;
+    wdata:Q7200235 "SO2103" ;
 .
 
 <urn:mdciii:1603:16:706:2:2104>
@@ -712,7 +712,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Adale"@eng-Latn ,
         "Cadale"@eng-Latn ;
-    wdata:q7200235 "SO2104" ;
+    wdata:Q7200235 "SO2104" ;
 .
 
 <urn:mdciii:1603:16:706:2:2201>
@@ -726,7 +726,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@eng-Latn ,
         "Banadir"@eng-Latn ;
-    wdata:q7200235 "SO2201" ;
+    wdata:Q7200235 "SO2201" ;
 .
 
 <urn:mdciii:1603:16:706:2:2301>
@@ -740,7 +740,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Marka"@eng-Latn ,
         "Merka"@eng-Latn ;
-    wdata:q7200235 "SO2301" ;
+    wdata:Q7200235 "SO2301" ;
 .
 
 <urn:mdciii:1603:16:706:2:2302>
@@ -754,7 +754,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Afgoi"@eng-Latn ,
         "Afgooye"@eng-Latn ;
-    wdata:q7200235 "SO2302" ;
+    wdata:Q7200235 "SO2302" ;
 .
 
 <urn:mdciii:1603:16:706:2:2303>
@@ -768,7 +768,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Baraawe"@eng-Latn ,
         "Barawe"@eng-Latn ;
-    wdata:q7200235 "SO2303" ;
+    wdata:Q7200235 "SO2303" ;
 .
 
 <urn:mdciii:1603:16:706:2:2304>
@@ -782,7 +782,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kuntuwaaray"@eng-Latn ,
         "Kurtunwaarey"@eng-Latn ;
-    wdata:q7200235 "SO2304" ;
+    wdata:Q7200235 "SO2304" ;
 .
 
 <urn:mdciii:1603:16:706:2:2305>
@@ -796,7 +796,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qoryoley"@eng-Latn ,
         "Qoryooley"@eng-Latn ;
-    wdata:q7200235 "SO2305" ;
+    wdata:Q7200235 "SO2305" ;
 .
 
 <urn:mdciii:1603:16:706:2:2306>
@@ -810,7 +810,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sablaale"@eng-Latn ,
         "Sablale"@eng-Latn ;
-    wdata:q7200235 "SO2306" ;
+    wdata:Q7200235 "SO2306" ;
 .
 
 <urn:mdciii:1603:16:706:2:2307>
@@ -824,7 +824,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Wanla Weyn"@eng-Latn ,
         "Wanla Weyne"@eng-Latn ;
-    wdata:q7200235 "SO2307" ;
+    wdata:Q7200235 "SO2307" ;
 .
 
 <urn:mdciii:1603:16:706:2:2401>
@@ -838,7 +838,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Baydhaba"@eng-Latn ,
         "Baydhabo, Baidoa"@eng-Latn ;
-    wdata:q7200235 "SO2401" ;
+    wdata:Q7200235 "SO2401" ;
 .
 
 <urn:mdciii:1603:16:706:2:2402>
@@ -852,7 +852,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Buur Hakaba"@eng-Latn ,
         "Buur Xakaba, Bur Hacaba"@eng-Latn ;
-    wdata:q7200235 "SO2402" ;
+    wdata:Q7200235 "SO2402" ;
 .
 
 <urn:mdciii:1603:16:706:2:2403>
@@ -866,7 +866,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Diinsoor"@eng-Latn ,
         "Dinsor, Diinsor"@eng-Latn ;
-    wdata:q7200235 "SO2403" ;
+    wdata:Q7200235 "SO2403" ;
 .
 
 <urn:mdciii:1603:16:706:2:2404>
@@ -880,7 +880,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qansah Dere"@eng-Latn ,
         "Qansax Dheere"@eng-Latn ;
-    wdata:q7200235 "SO2404" ;
+    wdata:Q7200235 "SO2404" ;
 .
 
 <urn:mdciii:1603:16:706:2:2501>
@@ -894,7 +894,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hudur"@eng-Latn ,
         "Xudur"@eng-Latn ;
-    wdata:q7200235 "SO2501" ;
+    wdata:Q7200235 "SO2501" ;
 .
 
 <urn:mdciii:1603:16:706:2:2502>
@@ -908,7 +908,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ceel Barde"@eng-Latn ,
         "El Barde"@eng-Latn ;
-    wdata:q7200235 "SO2502" ;
+    wdata:Q7200235 "SO2502" ;
 .
 
 <urn:mdciii:1603:16:706:2:2503>
@@ -922,7 +922,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tayeeglow"@eng-Latn ,
         "Tiyeeglow, Tayeglow, Tieglow"@eng-Latn ;
-    wdata:q7200235 "SO2503" ;
+    wdata:Q7200235 "SO2503" ;
 .
 
 <urn:mdciii:1603:16:706:2:2504>
@@ -936,7 +936,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Waajid"@eng-Latn ,
         "Wajid"@eng-Latn ;
-    wdata:q7200235 "SO2504" ;
+    wdata:Q7200235 "SO2504" ;
 .
 
 <urn:mdciii:1603:16:706:2:2505>
@@ -950,7 +950,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Rab Dhuure"@eng-Latn ,
         "Yeed, Biyole"@eng-Latn ;
-    wdata:q7200235 "SO2505" ;
+    wdata:Q7200235 "SO2505" ;
 .
 
 <urn:mdciii:1603:16:706:2:2601>
@@ -964,7 +964,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Garbahaaray, Garbaharey"@eng-Latn ,
         "Garbahaarey"@eng-Latn ;
-    wdata:q7200235 "SO2601" ;
+    wdata:Q7200235 "SO2601" ;
 .
 
 <urn:mdciii:1603:16:706:2:2602>
@@ -978,7 +978,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Baar-dheere, Bardera"@eng-Latn ,
         "Baardheere"@eng-Latn ;
-    wdata:q7200235 "SO2602" ;
+    wdata:Q7200235 "SO2602" ;
 .
 
 <urn:mdciii:1603:16:706:2:2603>
@@ -992,7 +992,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Belet Xaawa"@eng-Latn ,
         "Belet Xaawo"@eng-Latn ;
-    wdata:q7200235 "SO2603" ;
+    wdata:Q7200235 "SO2603" ;
 .
 
 <urn:mdciii:1603:16:706:2:2604>
@@ -1006,7 +1006,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ceel Waaq"@eng-Latn ,
         "Ceel Waq, El Wak, El Waq"@eng-Latn ;
-    wdata:q7200235 "SO2604" ;
+    wdata:Q7200235 "SO2604" ;
 .
 
 <urn:mdciii:1603:16:706:2:2605>
@@ -1020,7 +1020,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dolow, Dolo"@eng-Latn ,
         "Doolow"@eng-Latn ;
-    wdata:q7200235 "SO2605" ;
+    wdata:Q7200235 "SO2605" ;
 .
 
 <urn:mdciii:1603:16:706:2:2606>
@@ -1034,7 +1034,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Luuk, Luq"@eng-Latn ,
         "Luuq"@eng-Latn ;
-    wdata:q7200235 "SO2606" ;
+    wdata:Q7200235 "SO2606" ;
 .
 
 <urn:mdciii:1603:16:706:2:2701>
@@ -1048,7 +1048,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@eng-Latn ,
         "Bu'aale"@eng-Latn ;
-    wdata:q7200235 "SO2701" ;
+    wdata:Q7200235 "SO2701" ;
 .
 
 <urn:mdciii:1603:16:706:2:2702>
@@ -1062,7 +1062,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@eng-Latn ,
         "Jilib"@eng-Latn ;
-    wdata:q7200235 "SO2702" ;
+    wdata:Q7200235 "SO2702" ;
 .
 
 <urn:mdciii:1603:16:706:2:2703>
@@ -1076,7 +1076,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Saakow"@eng-Latn ,
         "Sakow"@eng-Latn ;
-    wdata:q7200235 "SO2703" ;
+    wdata:Q7200235 "SO2703" ;
 .
 
 <urn:mdciii:1603:16:706:2:2801>
@@ -1090,7 +1090,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kismaayo"@eng-Latn ,
         "Kismayo"@eng-Latn ;
-    wdata:q7200235 "SO2801" ;
+    wdata:Q7200235 "SO2801" ;
 .
 
 <urn:mdciii:1603:16:706:2:2802>
@@ -1104,7 +1104,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@eng-Latn ,
         "Afmadow"@eng-Latn ;
-    wdata:q7200235 "SO2802" ;
+    wdata:Q7200235 "SO2802" ;
 .
 
 <urn:mdciii:1603:16:706:2:2803>
@@ -1118,7 +1118,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Badhaadhe"@eng-Latn ,
         "Badhadhe"@eng-Latn ;
-    wdata:q7200235 "SO2803" ;
+    wdata:Q7200235 "SO2803" ;
 .
 
 <urn:mdciii:1603:16:706:2:2804>
@@ -1132,6 +1132,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jamaame"@eng-Latn ,
         "Jamame"@eng-Latn ;
-    wdata:q7200235 "SO2804" ;
+    wdata:Q7200235 "SO2804" ;
 .
 

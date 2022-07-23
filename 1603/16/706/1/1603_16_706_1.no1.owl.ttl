@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:706:1:11" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:706:0> ;
     skos:prefLabel "Awdal"@eng-Latn ;
-    wdata:q7200235 "SO11" ;
+    wdata:Q7200235 "SO11" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -64,7 +64,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "West Galbeed"@eng-Latn ,
         "Woqooyi Galbeed"@eng-Latn ;
-    wdata:q7200235 "SO12" ;
+    wdata:Q7200235 "SO12" ;
 .
 
 <urn:mdciii:1603:16:706:1:13>
@@ -77,7 +77,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tog-dheer"@eng-Latn ,
         "Togdheer"@eng-Latn ;
-    wdata:q7200235 "SO13" ;
+    wdata:Q7200235 "SO13" ;
 .
 
 <urn:mdciii:1603:16:706:1:14>
@@ -88,7 +88,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:706:1:14" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:706:0> ;
     skos:prefLabel "Sool"@eng-Latn ;
-    wdata:q7200235 "SO14" ;
+    wdata:Q7200235 "SO14" ;
 .
 
 <urn:mdciii:1603:16:706:1:15>
@@ -101,7 +101,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sanaag"@eng-Latn ,
         "Sanag"@eng-Latn ;
-    wdata:q7200235 "SO15" ;
+    wdata:Q7200235 "SO15" ;
 .
 
 <urn:mdciii:1603:16:706:1:16>
@@ -112,7 +112,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:706:1:16" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:706:0> ;
     skos:prefLabel "Bari"@eng-Latn ;
-    wdata:q7200235 "SO16" ;
+    wdata:Q7200235 "SO16" ;
 .
 
 <urn:mdciii:1603:16:706:1:17>
@@ -125,7 +125,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nugaal"@eng-Latn ,
         "Nugal"@eng-Latn ;
-    wdata:q7200235 "SO17" ;
+    wdata:Q7200235 "SO17" ;
 .
 
 <urn:mdciii:1603:16:706:1:18>
@@ -136,7 +136,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:706:1:18" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:706:0> ;
     skos:prefLabel "Mudug"@eng-Latn ;
-    wdata:q7200235 "SO18" ;
+    wdata:Q7200235 "SO18" ;
 .
 
 <urn:mdciii:1603:16:706:1:19>
@@ -149,7 +149,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Galgadud"@eng-Latn ,
         "Galgaduud"@eng-Latn ;
-    wdata:q7200235 "SO19" ;
+    wdata:Q7200235 "SO19" ;
 .
 
 <urn:mdciii:1603:16:706:1:20>
@@ -162,7 +162,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hiiraan"@eng-Latn ,
         "Hiraan"@eng-Latn ;
-    wdata:q7200235 "SO20" ;
+    wdata:Q7200235 "SO20" ;
 .
 
 <urn:mdciii:1603:16:706:1:21>
@@ -175,7 +175,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Middle Shabelle"@eng-Latn ,
         "Shabeellaha Dhexe"@eng-Latn ;
-    wdata:q7200235 "SO21" ;
+    wdata:Q7200235 "SO21" ;
 .
 
 <urn:mdciii:1603:16:706:1:22>
@@ -188,7 +188,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Banaadir"@eng-Latn ,
         "Banadir"@eng-Latn ;
-    wdata:q7200235 "SO22" ;
+    wdata:Q7200235 "SO22" ;
 .
 
 <urn:mdciii:1603:16:706:1:23>
@@ -201,7 +201,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lower Shabelle"@eng-Latn ,
         "Shabeellaha Hoose"@eng-Latn ;
-    wdata:q7200235 "SO23" ;
+    wdata:Q7200235 "SO23" ;
 .
 
 <urn:mdciii:1603:16:706:1:24>
@@ -212,7 +212,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:706:1:24" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:706:0> ;
     skos:prefLabel "Bay"@eng-Latn ;
-    wdata:q7200235 "SO24" ;
+    wdata:Q7200235 "SO24" ;
 .
 
 <urn:mdciii:1603:16:706:1:25>
@@ -223,7 +223,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:706:1:25" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:706:0> ;
     skos:prefLabel "Bakool"@eng-Latn ;
-    wdata:q7200235 "SO25" ;
+    wdata:Q7200235 "SO25" ;
 .
 
 <urn:mdciii:1603:16:706:1:26>
@@ -234,7 +234,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:706:1:26" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:706:0> ;
     skos:prefLabel "Gedo"@eng-Latn ;
-    wdata:q7200235 "SO26" ;
+    wdata:Q7200235 "SO26" ;
 .
 
 <urn:mdciii:1603:16:706:1:27>
@@ -247,7 +247,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jubbada Dhexe"@eng-Latn ,
         "Middle Juba"@eng-Latn ;
-    wdata:q7200235 "SO27" ;
+    wdata:Q7200235 "SO27" ;
 .
 
 <urn:mdciii:1603:16:706:1:28>
@@ -260,6 +260,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jubbada Hoose"@eng-Latn ,
         "Lower Juba"@eng-Latn ;
-    wdata:q7200235 "SO28" ;
+    wdata:Q7200235 "SO28" ;
 .
 
